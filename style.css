@@ -22,7 +22,7 @@ h2 {
 }  
 
 p, ul{
- text-align: justify;
+ text-align: left;
  color: black;
  padding: 0em 2em 0em;
  list-style: none
